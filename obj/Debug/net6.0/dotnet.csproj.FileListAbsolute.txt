@@ -1,0 +1,15 @@
+D:\Documentos\Rayane\Curso Programação Back-End SENAI EAD 2022\UC 9 - Codificação para BackEnd\AT2\dotnet\bin\Debug\net6.0\dotnet.exe
+D:\Documentos\Rayane\Curso Programação Back-End SENAI EAD 2022\UC 9 - Codificação para BackEnd\AT2\dotnet\bin\Debug\net6.0\dotnet.deps.json
+D:\Documentos\Rayane\Curso Programação Back-End SENAI EAD 2022\UC 9 - Codificação para BackEnd\AT2\dotnet\bin\Debug\net6.0\dotnet.runtimeconfig.json
+D:\Documentos\Rayane\Curso Programação Back-End SENAI EAD 2022\UC 9 - Codificação para BackEnd\AT2\dotnet\bin\Debug\net6.0\dotnet.dll
+D:\Documentos\Rayane\Curso Programação Back-End SENAI EAD 2022\UC 9 - Codificação para BackEnd\AT2\dotnet\bin\Debug\net6.0\dotnet.pdb
+D:\Documentos\Rayane\Curso Programação Back-End SENAI EAD 2022\UC 9 - Codificação para BackEnd\AT2\dotnet\obj\Debug\net6.0\dotnet.csproj.AssemblyReference.cache
+D:\Documentos\Rayane\Curso Programação Back-End SENAI EAD 2022\UC 9 - Codificação para BackEnd\AT2\dotnet\obj\Debug\net6.0\dotnet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Rayane\Curso Programação Back-End SENAI EAD 2022\UC 9 - Codificação para BackEnd\AT2\dotnet\obj\Debug\net6.0\dotnet.AssemblyInfoInputs.cache
+D:\Documentos\Rayane\Curso Programação Back-End SENAI EAD 2022\UC 9 - Codificação para BackEnd\AT2\dotnet\obj\Debug\net6.0\dotnet.AssemblyInfo.cs
+D:\Documentos\Rayane\Curso Programação Back-End SENAI EAD 2022\UC 9 - Codificação para BackEnd\AT2\dotnet\obj\Debug\net6.0\dotnet.csproj.CoreCompileInputs.cache
+D:\Documentos\Rayane\Curso Programação Back-End SENAI EAD 2022\UC 9 - Codificação para BackEnd\AT2\dotnet\obj\Debug\net6.0\dotnet.dll
+D:\Documentos\Rayane\Curso Programação Back-End SENAI EAD 2022\UC 9 - Codificação para BackEnd\AT2\dotnet\obj\Debug\net6.0\refint\dotnet.dll
+D:\Documentos\Rayane\Curso Programação Back-End SENAI EAD 2022\UC 9 - Codificação para BackEnd\AT2\dotnet\obj\Debug\net6.0\dotnet.pdb
+D:\Documentos\Rayane\Curso Programação Back-End SENAI EAD 2022\UC 9 - Codificação para BackEnd\AT2\dotnet\obj\Debug\net6.0\dotnet.genruntimeconfig.cache
+D:\Documentos\Rayane\Curso Programação Back-End SENAI EAD 2022\UC 9 - Codificação para BackEnd\AT2\dotnet\obj\Debug\net6.0\ref\dotnet.dll
